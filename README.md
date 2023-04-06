@@ -12,6 +12,7 @@ Online mobile application for the conjugation of arabic verbs based on the [Qutr
     <img src="/assets/img2.png" width="250px"</img> 
     <img src="/assets/img2.png" width="250px"</img> 
 </div>
+
 ## Built with
 
 * [Flutter/Dart]
