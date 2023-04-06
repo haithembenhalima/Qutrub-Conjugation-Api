@@ -4,4 +4,4 @@ Online mobile application for the conjugation of arabic verbs based on the [Qutr
 
 ## App
 
-<img src="/assets/img1.png" alt="screenshoot" width="50" height="80" title="">
+<img src="/assets/img1.png" alt="screenshoot" width="120" height="120" title="">
