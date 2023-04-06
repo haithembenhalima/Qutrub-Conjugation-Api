@@ -4,11 +4,14 @@ Online mobile application for the conjugation of arabic verbs based on the [Qutr
 
 ## App
 
-<img src="/assets/img1.png" alt="screenshoot" width="180" height="280" title="">
-<img src="/assets/img2.png" alt="screenshoot" width="180" height="280" title="">
-<img src="/assets/img3.png" alt="screenshoot" width="180" height="280" title="">
-<img src="/assets/img4.png" alt="screenshoot" width="180" height="280" title="">
-
+<div align="center">
+    <img src="/assets/img2.png" width="250px"</img>
+    <img src="/assets/img2.png" width="250px"</img> 
+</div>
+<div align="center">
+    <img src="/assets/img2.png" width="250px"</img> 
+    <img src="/assets/img2.png" width="250px"</img> 
+</div>
 ## Built with
 
 * [Flutter/Dart]
