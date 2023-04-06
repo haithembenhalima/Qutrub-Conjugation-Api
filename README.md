@@ -15,4 +15,4 @@ Online mobile application for the conjugation of arabic verbs based on the [Qutr
 
 ## Issues
 
-Testing is much appreciated. Please post any issue you find in the [Issues tracker](https://github.com/linuxscout/qutrub)
+Testing is much appreciated. Please post any issue you find in the [Issues tracker](https://github.com/haithembenhalima/Qutrub-Conjugation-Api/issues)
